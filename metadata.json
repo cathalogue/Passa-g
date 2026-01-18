@@ -1,0 +1,7 @@
+{
+  "name": "PASSA-G",
+  "description": "Application de covoiturage permettant aux passagers de trouver et réserver des trajets en toute simplicité.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
